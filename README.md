@@ -2,7 +2,7 @@
 
 > React + TypeScript frontend with an ASP.NET Core backend-for-frontend integrating all four portfolio services into one energy management portal.
 
-![CI](https://github.com/hananraza432/energy-portal/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/hanan-raza/energy-portal/actions/workflows/ci.yml/badge.svg)
 
 ---
 
